@@ -1,9 +1,9 @@
 {
-  "name": "next.js-typescript-starter-kit",
+  "name": "davidrevay.com",
   "version": "6.1.0",
   "main": "index.js",
-  "repository": "https://github.com/deptno/next.js-typescript-starter-kit",
-  "author": "Bonggyun Lee <deptno@gmail.com>",
+  "repository": "https://github.com/MrBlenny/davidrevay.com",
+  "author": "David Revay <daverevay@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start:dev": "next",
